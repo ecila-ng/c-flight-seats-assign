@@ -1,7 +1,6 @@
 # Airlines Seat Assign Helper
 
 //***********************************  PROGRAM DESCRIPTION  *******************************************
-
 //*                                                                                                   *
 
 //*   PROCESS: This program assign seats to passengers for Southern Comfort Airlines. It reads in     *
