@@ -5,7 +5,8 @@
 
 PROCESS: This program assign seats to passengers for Southern Comfort Airlines. It reads in passenger data then assign seats for them on various flights according to the rules.
 
-#Rule 1: Specific seat requests are honored first.                                              
+#### Rule 1:
+Specific seat requests are honored first.                                              
 
 #Rule 2: If a requested seat is already assigned to another passenger, the person should be place in the same row, if possible, starting from the left side (lowest seat number).          
 
